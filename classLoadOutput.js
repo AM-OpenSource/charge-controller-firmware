@@ -1,0 +1,25 @@
+var classLoadOutput =
+[
+    [ "LoadOutput", "classLoadOutput.html#afff465e5a2422e2f7a52cacd1fe07c16", null ],
+    [ "control", "classLoadOutput.html#a7e197bd6b1c0b5929d0ef0fd9cb690bc", null ],
+    [ "stop", "classLoadOutput.html#af13162abb5c9b6afab9a1bef5b65d478", null ],
+    [ "switch_set", "classLoadOutput.html#af70a3bb917f7eaa84b06f8fe2a27907b", null ],
+    [ "usb_set", "classLoadOutput.html#ae5db4b479fdc205e915ed64cf6918ffb", null ],
+    [ "usb_state_machine", "classLoadOutput.html#a4771af4589ab6fb549e6ea7de44608a5", null ],
+    [ "disconnect_voltage", "classLoadOutput.html#a15faebdd6cacfe9e150b63a078147494", null ],
+    [ "enable", "classLoadOutput.html#a940de4a16d83db843b7129a0d1ef9ae6", null ],
+    [ "junction_temperature", "classLoadOutput.html#a4367529a8e509c097f22803d3b3131d7", null ],
+    [ "lvd_recovery_delay", "classLoadOutput.html#a80bc83e4b20804f5af28080785fc2d79", null ],
+    [ "lvd_timestamp", "classLoadOutput.html#ae8f4d5e74295bae9aee15b8ff879390f", null ],
+    [ "oc_recovery_delay", "classLoadOutput.html#aa48072abcd27d7a72b10087ec409cbf2", null ],
+    [ "oc_timestamp", "classLoadOutput.html#a50a02e1e4208cf7ac92fec2e3dced0f6", null ],
+    [ "ov_hysteresis", "classLoadOutput.html#a797c7c084c37465aa27725ecbc3d5ee6", null ],
+    [ "overvoltage", "classLoadOutput.html#a549f03760bb53934cb3bd2096aa9d6ea", null ],
+    [ "pgood", "classLoadOutput.html#a92d6157859ebd00b7d1d5cdeb1ea7bdf", null ],
+    [ "port", "classLoadOutput.html#a51687d18302d108408b66c901aa7d9e8", null ],
+    [ "reconnect_voltage", "classLoadOutput.html#ae6675a1102058bf91bdf8b7dbcc6b2ef", null ],
+    [ "state", "classLoadOutput.html#a8a12b32431669516311d806e207111bb", null ],
+    [ "usb_enable", "classLoadOutput.html#a9f9366dbda6430204f809dd735207ddf", null ],
+    [ "usb_pgood", "classLoadOutput.html#a5584a0d4b65aba0955e0a0b7504a61fb", null ],
+    [ "usb_state", "classLoadOutput.html#aab6b79eeef1e7ce5f489bc47ed336c41", null ]
+];
